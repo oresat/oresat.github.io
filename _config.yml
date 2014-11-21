@@ -1,0 +1,16 @@
+name: Oregon Small Satellite
+url: http://oresat.org
+
+exclude:    ['README.markdown', 'LICENSE', 'CNAME', 'Makefile']
+timezone:   America/Los_Angeles
+markdown:   kramdown
+permalink:  /:year/:month/:title/
+excerpt_separator: "\n\n\n\n"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post"

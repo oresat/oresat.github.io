@@ -1,7 +1,7 @@
 @import "bootstrap.less";
 
 // sticky footer
-@footer-height: 100px;
+@footer-height: 240px;
 html, body, .wrapper { height: 100%; margin: 0; padding: 0; }
 body > .wrapper { height: auto; min-height: 100%; }
 #content { padding-bottom: @footer-height+120px; }
@@ -14,6 +14,10 @@ body > .wrapper { height: auto; min-height: 100%; }
 #header-two { background: #777 url('/assets/img/headbar.jpg') center 0; height: 260px; }
 
 
-#content { .container(); }
+#content { .container(); padding-top: 40px; }
+#content h1 { margin-bottom: 1.1em; }
 
-#footer{ background: @gray; }
+
+#footer{ background: @oresat-dark; }
+#info { .container(); padding-top: 130px; font-size: 10px; color: #cdc; }
+#info a { color: #efe; }

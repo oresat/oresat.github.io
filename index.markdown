@@ -10,8 +10,8 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that.
 
-&nbsp;
-
 ![](/assets/img/cube.png)
+
+&nbsp;
 
 _Stay tuned for more information._

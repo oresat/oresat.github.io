@@ -1,0 +1,19 @@
+@import "bootstrap.less";
+
+// sticky footer
+@footer-height: 100px;
+html, body, .wrapper { height: 100%; margin: 0; padding: 0; }
+body > .wrapper { height: auto; min-height: 100%; }
+#content { padding-bottom: @footer-height+120px; }
+#footer { clear: both; position: relative; z-index: 10; height: @footer-height; margin-top: -@footer-height; }
+
+#header-one { .container(); padding-bottom: 20px; }
+#header-one h1 { font-family: "Roboto", Helvetica, Arial, sans-serif; font-weight: 100; word-spacing: 0.27em; color: #000; }
+#header-one h1 img { width: 200px; height: auto; }
+
+#header-two { background: #777 url('/assets/img/headbar.jpg') center 0; height: 260px; }
+
+
+#content { .container(); }
+
+#footer{ background: @gray; }

@@ -1,7 +1,8 @@
 name: Oregon Small Satellite
+description: Oregon Small Satellite Consortium
 url: http://oresat.org
 
-exclude:    ['README.markdown', 'LICENSE', 'CNAME', 'Makefile']
+exclude:    ['README.markdown', 'LICENSE', 'CNAME', 'Makefile', 'assets/vendor/bootstrap', 'assets/less']
 timezone:   America/Los_Angeles
 markdown:   kramdown
 permalink:  /:year/:month/:title/

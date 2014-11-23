@@ -1,5 +1,11 @@
 @import "bootstrap.less";
 
+@btn-font-size-base: 10px;
+@btn-font-weight: 400;
+@btn-line-height-base: 100%;
+@btn-default-color: #fff;
+@import "../vendor/flat-ui/buttons.less";
+
 // sticky footer
 @footer-height: 240px;
 html, body, .wrapper { height: 100%; margin: 0; padding: 0; }
@@ -37,3 +43,17 @@ body > .wrapper { height: auto; min-height: 100%; }
 #footer{ background: @oresat-dark; }
 #info { .container(); padding-top: 130px; font-size: 10px; color: #cdc; }
 #info a { color: #efe; }
+
+
+/* Mailchimp */
+#mc_embed_signup { margin-top: 30px; }
+#mc_embed_signup form { .form-horizontal(); }
+#mc_embed_signup_scroll { }
+.indicates-required { font-size: 0.7em; font-style: oblique; margin-bottom: 1.0em; }
+.mc-field-group { .form-group(); .row(); }
+.mc-field-group label { .make-sm-column(3);}
+.mc-field-group input { .form-control(); }
+.mc-field { .make-sm-column(7); }
+.asterisk { color: #f00; }
+#mc-embedded-subscribe { .btn(); .make-sm-column(6); .make-sm-column-offset(3); font-size: 1.2em; background: @oresat; }
+

@@ -14,4 +14,6 @@ We would like to change that.
 
 &nbsp;
 
-_Stay tuned for more information._
+_Want to stay in the loop?_ Add yourself to our email list to receive project updates:
+
+{% include mailchimp.html %}

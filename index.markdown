@@ -1,6 +1,6 @@
 ---
 layout: base
-title: Oregon Small Satellite Consortium
+title: Oregon Small Satellite Project 
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: home
 title: Oregon Small Satellite Project 
 ---
 

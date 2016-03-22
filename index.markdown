@@ -10,7 +10,7 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that.
 
-![](/assets/img/cube.png)
+<img src="/assets/img/cube.png" style="width:18px;height:18px;">
 
 &nbsp;
 

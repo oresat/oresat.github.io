@@ -10,7 +10,7 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that!
 
-Please consider [getting involved](https://github.com/oresat/getting-started/blob/master/README.md), and please watch our progress on [github](http://github.com/oresat).
+You can [gett involved](https://github.com/oresat/getting-started/blob/master/README.md), and/or follow our progress on [github](http://github.com/oresat).
 
 <img src="/assets/img/cube.png" style="width:18px;height:18px;">
 

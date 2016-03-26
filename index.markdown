@@ -14,6 +14,8 @@ We would like to change that.
 
 &nbsp;
 
+Watch our progress - and help us build Oregon's first CubeSat! - on [github](http://github.com/oresat).
+
 _Want to stay in the loop?_ Add yourself to our email list to receive project updates:
 
 {% include mailchimp.html %}

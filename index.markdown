@@ -10,11 +10,11 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that.
 
+Watch our progress on [github](http://github.com/oresat).
+
 <img src="/assets/img/cube.png" style="width:18px;height:18px;">
 
 &nbsp;
-
-Watch our progress - and help us build Oregon's first CubeSat! - on [github](http://github.com/oresat).
 
 _Want to stay in the loop?_ Add yourself to our email list to receive project updates:
 

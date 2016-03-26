@@ -8,9 +8,9 @@ title: Oregon Small Satellite Project
 
 Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/CubeSat) have been launched by dozens of universities and countries around the world. But so far Oregon has yet to join the elite club of states that have flown a home-grown cubesat in space.
 
-We would like to change that.
+We would like to change that!
 
-Watch our progress on [github](http://github.com/oresat).
+Please consider [getting involved](https://github.com/oresat/getting-started/blob/master/README.md), and please watch our progress on [github](http://github.com/oresat).
 
 <img src="/assets/img/cube.png" style="width:18px;height:18px;">
 

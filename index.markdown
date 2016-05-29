@@ -13,6 +13,8 @@ We would like to change that!
 
 [Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware).
 
+Please also consider [donating](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving) to help out Oregon's first nanosat!
+
 <img src="/assets/img/cube.png" style="width:18px;height:18px;">
 
 &nbsp;

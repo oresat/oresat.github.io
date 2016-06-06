@@ -19,26 +19,3 @@ Yep. WiFi from space.
 Well, technically it'll be ARRL 802.11b, which is WiFi in channel 1 run under the amateur radio band so we can power amplify the heck out of it. And it'll be downlink only, and running at 2 Mbps, and there will be drop outs (it's hard enough to get WiFi from your living room, and we're delivering it from *space*). But if all of this works, then high school students in Oregon (and around the world, actually) will be able to download live video from space. From 400km up, right above their heads.
 
 And that's a pretty exciting way to tie Oregon students into the the idea that space is relevant, and now much more accessible than any time in history.
-
-
-
-
-
-Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/CubeSat) have been launched by dozens of universities and countries around the world. But so far Oregon has yet to join the elite club of states that have flown a home-grown cubesat in space.
-
-We would like to change that!
-
-[Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware).
-
-Please also consider [donating](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving) to help out Oregon's first nanosat!
-
-<img src="/assets/img/cube.png" style="width:18px;height:18px;">
-
-&nbsp;
-
-{% include twitter.html %}
-
-
-_Want to stay in the loop?_ [Follow us on twitter](https://twitter.com/oregoncubesat) and add yourself to our email list to receive major project updates:
-
-{% include mailchimp.html %}

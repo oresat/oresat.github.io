@@ -3,6 +3,7 @@ layout: page
 title: OreSat Mission 
 ---
 
+![OreSat Block Diagram](oresat-block-diagram.png)
 
 # Primary Mission
 

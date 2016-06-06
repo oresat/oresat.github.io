@@ -24,3 +24,6 @@ And that's a pretty exciting way to tie Oregon students into the the idea that s
 Here's what we currently think we're going to cram into OreSat's 2U CubeSat frame:
 
 ![OreSat Block Diagram](oresat-block-diagram.png)
+
+You can find out more about each of these blocks by searching our [Github site](http://github.com/oresat).
+

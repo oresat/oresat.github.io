@@ -12,3 +12,4 @@ So a lot of projects SAY they're open source. But if you haven't actually publis
 | [UPSat](https://upsat.gr/) | University of Patras / Libre Space Foundation | [Yes](https://github.com/librespacefoundation?query=upsat) | [Yes](https://github.com/librespacefoundation?query=upsat) |
 | [LibreCube](http://librecube.net/)| LibreCube (?) | [Yes](https://github.com/librecube-space) | [Yes](https://github.com/librecube-space) |
 | [Ardusat](https://www.ardusat.com/) | [Nanosatisfi](http://www.nanosatisfi.com/) | [Some, not all](https://github.com/ardusat) | Nope. |
+

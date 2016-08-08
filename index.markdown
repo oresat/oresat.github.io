@@ -11,7 +11,7 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that!
 
-[Here's our proposed mission](http://oresat.org/mission/). And [Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware). There are other [open source satellite projects](http://github.com/oresat/open-source-projects), too!
+[Here's our proposed mission](http://oresat.org/mission/). And [Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware). There are other [open source satellite projects](http://oresat.org/open-source-projects), too!
 
 Please also consider [donating](https://cconn.foundation.pdx.edu/ccon/new_gift.do?action=newGift&giving_page_id=7&site=giving) to help out Oregon's first nanosat!
 

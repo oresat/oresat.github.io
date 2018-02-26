@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Oregon Small Satellite Project 
+
 ---
 
 
@@ -11,13 +12,13 @@ Small educational satellites called [cubesats](http://en.wikipedia.org/wiki/Cube
 
 We would like to change that!
 
-[Here's our proposed mission](http://oresat.org/mission/), although we're currently looking Oregon-based [science missions](http://oresat.org/science/)!
+[Our mission](mission/) includes an interactive video-from-space project for students and a scientific payload to measure cirrus cloud density.
 
-[Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our development progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware). There are other [open source satellite projects](http://oresat.org/open-source-projects), too!
+[Here's how to get involved](https://github.com/oresat/getting-started/blob/master/README.md). You can also follow our development progress on [github](http://github.com/oresat); OreSat is a completely [open source project](https://en.wikipedia.org/wiki/Open-source_hardware). There are other [open source satellite projects](open-source-projects), too!
 
-Here's a bit more [about us](http://oresat.org/about/).
+Here's a bit more [about us](about/).
 
-Finally, please also consider [donating](https://giving.psuf.org/oresat) to help out Oregon's first nanosat!
+Finally, please also consider [donating](https://giving.psuf.org/oresat) to help out Oregon's first satellite!
 
 <img src="/assets/img/cube.png" style="width:18px;height:18px;">
 

@@ -21,7 +21,7 @@ And that's a pretty exciting way to tie Oregon students into the the idea that s
 
 ### 2016 CubeSat Launch Intiative (CSLI) Proposal
 
-You can find a lot more technical details in [our proposal](http://oresat.org/mission/oresat-2016-csli-application-r6-PUBLIC.pdf) to launch OreSat via NASA's CSLI program.
+You can find a lot more technical details in [our proposal](mission/oresat-2016-csli-application-r6-PUBLIC.pdf) to launch OreSat via NASA's CSLI program.
 
 ### System Block Diagram
 

@@ -17,7 +17,7 @@ Yep. WiFi from space.
 
 Well, technically it'll be ARRL 802.11b, which is WiFi in channel 1 run under the amateur radio band so we can power amplify the heck out of it. And it'll be downlink only, and running at 2 Mbps, and there will be drop outs (it's hard enough to get WiFi from your living room, and we're delivering it from *space*). But if all of this works, then high school students in Oregon (and around the world, actually) will be able to download live video from space. From 400km up, right above their heads.
 
-And that's a pretty exciting way to tie Oregon students into the the idea that space is relevant, and now much more accessible than any time in history.
+And that's a pretty exciting way to tie Oregon students into the idea that space is relevant, and now much more accessible than any time in history.
 
 ### 2016 CubeSat Launch Intiative (CSLI) Proposal
 

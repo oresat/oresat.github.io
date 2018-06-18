@@ -1,0 +1,5 @@
+<map id="ACS" name="ACS">
+<area shape="rect" id="node2" href="$structcan__buffer.html" title="can_buffer structure holds the send and recv buffers that are registered with the CAN bus ..." alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node3" href="$structMTQR.html" title="MTQR structure for keeping state. " alt="" coords="112,5,173,32"/>
+<area shape="rect" id="node4" href="$structbldc.html" title="The structure that defines and characterizes a motor and how it&#39;s being control. " alt="" coords="198,5,245,32"/>
+</map>

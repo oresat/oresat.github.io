@@ -1,0 +1,851 @@
+﻿Amateur Satellite Frequency Coordination Request  —  Page 
+
+
+AMATEUR SATELLITE FREQUENCY COORDINATION REQUEST
+Administrative information:
+0
+	DOCUMENT CONTROL
+	0a
+	Date submitted
+	20-Dec-2019
+	0b
+	Document revision number 
+	0
+	
+
+	
+
+	1
+	SPACECRAFT (published)
+	1a
+	Name 
+	OreSat1
+	1b
+	Notifying administration
+	United States Federal Communications Commission - http://fcc.gov/
+	1c
+	API/A number
+	20-Dec-2019
+	
+
+	2
+	LICENSEE OF THE SPACE STATION (published) or responsible amateur in case of educational mission
+	2a
+	First (given) name
+	Glenn
+	2b
+	Last (family) name
+	LeBrasseur
+	2c
+	Amateur Radio Call sign
+	KJ7SU
+	2c1
+	licensed since
+	Sep-1994
+	2d
+	Postal address
+	6648 SE 45th Ave
+Portland, OR  97206, USA
+	2e
+	Telephone number (including country code)
+	1-503-459-7218
+	2f
+	E-mail address (licensee will be IARU’s point of contact and receive all correspondence)
+	glenn.lebrasseur@gmail.com
+kj7su@amsat.org
+
+
+	2g
+	Licensee’s position in any organisation referenced in item 3a.
+	Communications Engineer (Volunteer)
+	________________
+
+
+3
+	ORGANISATIONS (published)  — complete this section for EACH participating organization
+	3a
+	Name of organization and/or educational institution
+	Portland State Aerospace Society at  Portland State University
+Attention: Andrew Greenberg
+	3b
+	Postal address
+	1900 SW 4th Avenue, Suite 160
+Portland, Oregon 97201, USA
+	3c
+	Telephone number (including country code)
+	1-503-708-7711
+	3d
+	E-mail address
+	adg4@pdx.edu
+	3e
+	Web site URL
+	http://oresat.org/
+	3f
+	National Amateur Radio Society (including contact information)
+	ARRL
+225 Main Street
+Newington, CT, 06111-1400, USA
+Tel:1-860-594-0200
+Fax:1-860-594-0259
+Toll-free:1-888-277-5289
+hq@arrl.org
+
+
+ARRL Oregon Section Manager
+David M Kidd, Sr,  KA7OZO
+21760 S Larkspur Ave
+Oregon City, OR 97045, USA
+ka7ozo@pacifier.com
+	3g
+	Does your National Amateur Satellite organization and/or National Amateur Radio Society endorse this request?  
+	☐ Yes (AMSAT-NA)
+☑ No
+
+
+☑ Yes (ARRL)
+☐ No
+	3h
+	Name and email address(es) of the person(s) you’ve contacted in the National AMSAT Organisation or National Amateur Radio Society
+	AMSAT-NA
+Name:  Andrew Glasbrenner,  KO4MA
+Email:  ko4ma@amsat.org
+
+
+ARRL
+Name:  David M Kidd, Sr,  KA7OZO
+Email:  ka7ozo@pacifier.com
+	3i
+	Will any person or organisation involved with the project be, directly or indirectly, financially compensated for operating the satellite and ground station(s) 
+	☐ Yes, see 3j
+☑ No
+
+
+
+	3j
+	If you’ve answered yes in 3i, please explain.
+	
+
+
+	
+
+
+
+Space station information:
+4
+	SPACE STATION (published)
+	4a
+	Type of mission
+Tick applicable box(es)
+	☐ Amateur
+☑ Amateur combined with Educational
+☐ Amateur combined with other mission(s)
+	4a3
+	If mission type in 4a is Amateur combined with other missions, will the transmitters or receivers operating in the amateur radio frequencies be used to control, or retrieve data (telemetry, payload, etc.) from, the non-amateur mission sub-systems? 
+	☐ Yes, see 4a4
+☑ No
+	4a4
+	If you’ve answered yes in 4a3, please explain.
+	
+
+	4b
+	Mission(s):
+List and describe in clear text the project mission(s)
+	OreSat has three missions:
+
+
+1. OreSat's primary mission is "OreSat Live",  an innovative space-based STEM outreach mission. The satellite will downlink live video directly from the satellite in low earth orbit to any group of Oregon students or amateur radio group ("operators") that builds an inexpensive, easy to assemble, simple to use, hand-held ground station. The operators request an OreSat Live "session", and the OreSat Operations Group schedules the next available satellite pass for them. During the pass, OreSat points at the operator's location in Oregon, and downlinks the video data. The operators use the handheld ground station to receive the video on their smartphones or laptops. The OreSat Live space segment is based on technology heritage of the DxWiFi project, a long distance IEEE 802.11b (WiFi) S band radio link run under FCC Part 97 ("amateur 802.11b") pioneered at Portland State University. Although the Oregon Live handheld ground station does not require an amateur radio license to operate, it does teach radio principles and technologies. It specifically encourages operators to pursue their amateur radio licenses in order to utilize the radio systems on OreSat, which are a CW and AX.25 APRS UHF amateur radio beacon providing real time telemetry of the satellite's state.
+
+
+2. OreSat's secondary mission is the "Cirrus Flux Cam (CFC)", an educational "citizen science" based optical instrument to study the global distribution of high-altitude cirrus clouds from low earth orbit. The CFC is a small, low power multi-spectral Short Wave Infrared (SWIR) and visible light camera system designed to image the optical flux of sunlight reflected off high-altitude (>15 km) cirrus clouds.
+
+
+3. OreSat's tertiary mission is to provide flight heritage to OreSat's open source "OreSat bus", an open source card-cage based system that is ideally suited for large educational CubeSat projects involving interdisciplinary teams of students.
+	4b1
+	Amateur Satellite Bands used:
+	☐ 144-146 MHz
+☑ 435-438 MHz
+☑ 1260-1270 MHz
+☑ 2400-2450 MHz
+☐ 3400-3410 MHz
+☐ 5650-5670 MHz and/or 5830-5850 MHz
+☐ 10.450-10.500 GHz
+☐ 24.000-24.050 GHz
+☐ Other (please describe)
+	4c
+	Planned duration of each part of the mission.
+	Design, build, and test of the satellite in Portland, Oregon, is expected to take about four (4) years to complete (2017 - 2021)
+
+
+Launch will be provided by NASA to the International Space Station (ISS) where the satellite will be deployed. (2021)
+
+
+OreSat's on-orbit duration is likely to be 9 months to 1.5 years, depending on space weather conditions in low earth orbit (~ 430 km). We expect OreSat to deorbit and completely disintegrate. (2021-2023)
+
+
+OreSat operations will commence with satellite check out: track the satellite in orbit, establish engineering communications, and ensure adequate power budget. This period will take a few weeks to several months depending on the performance of the satellite. When not actively performing a mission, OreSat will transmitting an amateur radio  beacon with satellite telemetry.
+
+
+OreSat Live mission operation will begin after checkout. Each OreSat Live session is approximately 5 to 10 minutes depending on the pass elevation. Multiple orbits of the satellite are expected to be needed to setup the required power budget and attitude for a single mission pass. The cycle of setup orbits and the single downlink pass will repeat as often as practical, according to the coordinated work of OreSat's amateur radio operations group and other educational and amateur groups.
+
+
+The Cirrus Flux Cam (CFC) mission operation will take place in-between OreSat Live operations, using whatever power budget and pass duration is available. The CFC mission can then opportunistically downlink its collected data.
+	4d
+	Proposed space station transmitting frequency plan. 
+	4d1
+	List all the frequencies (or frequency bands) requested and describe the function of each
+	UHF (436.5 MHz) – Amateur CW Beacon,  Amateur APRS Packet Beacon, and Primary Engineering Data Downlink
+
+
+S band (2422 MHz) – Bulk Mission Data Downlink
+	4d2
+	Frequency tuning range (in MHz) of transmitter and tuning step increment (in Hz or kHz)
+	UHF: 
+- 435 to 438 MHz, with 1 kHz steps
+
+
+S band:
+- 2410 to 2450 MHz, with 1 MHz steps
+	4d3
+	EIRP (in dBm)
+	UHF: 
++20 dBm to +30 dBm adjustable
+
+
+S band:
++42 dBm using primary directional antenna
++32 dBm using backup isotropic antenna
+	4d4
+	List all ITU emission designator
+For each transmitter
+	UHF:
+- Amateur CW Beacon:  150HA1A
+- Amateur APRS Packet Beacon:  20K0F1D
+- Primary Engineering Downlink:  96K0F1D
+
+
+S band:
+- Bulk Mission Data Downlink:  22M0G1D
+
+
+	4d5
+	Common description of the emission including modulation type AND data rate
+	UHF:
+- Amateur CW Beacon:  Morse Code, 20 WPM
+- Amateur APRS Packet Beacon:  G3RUH, AX.25 Packet,  9600 bit/sec
+- Primary Engineering Downlink: GMSK, 96k bit/sec
+
+
+S band:
+- Bulk Mission Data Downlink: Spread Spectrum DBPSK, 11 M chip/sec spreading rate, 1M bit/sec data rate (amateur 802.11b)
+	4d6
+	Type of antenna, antenna gain and pattern
+	UHF:
+- Type: 45 degree Canted Turnstile
+- Gain: 0 dBi
+- Pattern: Isotropic, circularly polarized
+
+
+S band primary antenna:
+- Type: 16 turn Helical
+- Gain: 10 dBi on axis
+- Pattern: Directional, 20 degree HPBW, right-hand circularly polarized (RHCP)
+
+
+S band backup antenna:
+- Type: 45 degree Canted Turnstile
+- Gain: 0 dBi
+- Pattern: Isotropic, circularly polarized
+	4d7
+	Attitude stabilisation, if used
+	3 axis attitude control via open source ADCS system using star tracker, 4 reaction wheels, and 3 magnetorquers
+	4d8
+	Service Area
+	UHF CW and APRS Amateur Beacon: Worldwide within 51.6 degree inclination, 405 km altitude orbital footprint (ISS-like orbit)
+
+
+UHF Engineering Link: 
+Localized to the footprint of the OreSat Operations Group ground station in Portland, Oregon, USA and in Bend, Oregon, USA.
+
+
+S Band OreSat Live Link: 
+Oregon, USA
+	4e
+	Proposed space station receiving frequency plan.  
+List for each frequency or frequency range: 
+	4e1
+	Requested frequency and function
+	UHF (436.5 MHz) – Backup Telecommand for emergency use only
+
+
+L band (1265 MHz) – Primary Telecommand and Engineering Data Uplink
+
+
+S band (2422 MHz) – Secondary Backup Telecommand for emergency use only
+	4e2
+	Frequency tuning range (in MHz) of receiver and tuning step increment (in Hz or kHz)
+	UHF:
+- 435 to 438 MHz, with 1 kHz steps
+
+
+L band:
+- 1260 to 1270 MHz, with 1 kHz steps
+
+
+S band:
+- 2410 to 2450 MHz, with 1 MHz steps
+	4e3
+	ITU emission designator for each transmitter and emission type
+	UHF: 96K0F1D
+L band: 120KF1D
+S band: 22M0G1D
+	4e4
+	Common description of the emission including modulation type AND data rate for each transmitter and emission type
+	UHF:
+- Backup Telecommand
+- GMSK, 96k bit/sec
+
+
+L band:
+- Telecommand and Engineering Data Uplink
+- GMSK, 120k bit/sec
+
+
+S band:
+- Secondary Backup Telecommand
+- Spread Spectrum DBPSK, 11 M chip/sec spreading rate, 1M bit/sec data rate (amateur 802.11b)
+	4e5
+	Noise temperature for each receiver onboard the satellite
+	UHF: 256 K at 436.5 MHz
+
+
+L band: 236 K at 1265 MHz
+
+
+S band: 264 K at 2422 MHz
+	4e6
+	Associated antenna gain and pattern for each receiver onboard the satellite
+	UHF:
+- Type: 45 degree Canted Turnstile
+- Gain: 0 dBi
+- Pattern: Isotropic, circularly polarized
+
+
+L band:
+- Type: 45 degree Canted Turnstile
+- Gain: 0 dBi
+- Pattern: Isotropic, circularly polarized
+
+
+S band primary antenna:
+- Type: 16 turn Helical
+- Gain: 10 dBi on axis
+- Pattern: Directional, 20 degree HPBW, right-hand circularly polarized (RHCP)
+
+
+S band backup antenna:
+- Type: 45 degree Canted Turnstile
+- Gain: 0 dBi
+- Pattern: Isotropic, circularly polarized
+	4f
+	Physical structure, including dimension and mass:
+
+
+	OreSat is a 2U CubeSat, compliant to the CubeSat Design Specification Rev 13, which is 10 x 22.7 x 10 cm CubeSat with a maximum weight of  2.66 kg.
+
+
+OreSat's structure consists of four (4) flat rectangular frames made of 6061-T6 aluminum, anodization type II, black.
+
+
+The frames hold 20 independent printed circuit board "cards". Solar panels are attached on the four outer sides of the frames.
+
+
+A deployable S band helical antenna is mounted on the +Z face, with a deployed length of 507 ± 10 mm and diameter of 40.8 ± 1 mm.
+
+
+A deployable tri-band (UHF, L band, and S band) turnstile antenna is mounted on the -Z face, made of four individual tri-band antenna elements at an angle of 15 degrees from the -Z face and with a length of 17 mm each.
+
+
+Images of OreSat's structure are available at:  http://oresat.org/pub/OreSat_Structure_Images_190930.pdf
+	4g
+	Functional Description of each satellite sub-system, including non-amateur payloads
+	OreSat uses an open source, highly modular card-cage system that has functional "cards" that attach to a common backplane. This section summarizes each subsystem; technical details on any subsystem can be found at http://github.com/oresat/.
+
+
+Backplane: Provides data, power, and RF connections for all cards. Power connections include the system power bus (6.0 - 8.4 V), and an I2C-based power domain control system. Data connections include two Controller Area Network (CAN) busses, one for critical subsystems and one for mission subsystems. RF connections for UHF, L band, and S band signals are made via microstrips on the backplane.
+
+
+Command, Communications, and Control (C3) Card: Provides overall control of the satellite. An STM32-based microcontroller communicates over both CAN busses and controls power via an I2C-based power domain system. The C3 card also has the two primary satellite radio systems. The first is a bi-directional UHF radio which transmits an Amateur CW Beacon, Amateur APRS Packet Beacon, and Primary Engineering Data Downlink, and receives the Backup Telecommand and Engineering Data Uplink. The second radio is a receive-only L band radio that receives the Primary Telecommand and Engineering Data Uplink. The C3 card also has onboard watchdog and data storage capabilities. 
+
+
+Battery Cards (2x): Provides energy storage on the satellite. Each battery card has two independent 2S1P Lithium Ion batteries which provide 6.0 - 8.4 V with a total card capacity of 6 Ah and thus a total energy storage of roughly 42 Wh. The total satellite onboard storage with two battery cards is 12 Ah, thus roughly 84 Wh of energy storage. Onboard battery protection circuitry prevent overvoltage, undervoltage, under temperature, over temperature, and balance the two series cells. The voltage, current, and temperature of each cell is tracked by an onboard microcontroller which relays the data to the critical system CAN bus. The battery cards also contain an inhibit switch which shuts down satellite power, and a battery disconnect switch, which removes the negative lead of the battery while in storage.
+
+
+Solar Modules (8x): Provides photovoltaic energy generation. Each solar module, located on the outside of the satellite frames, provides a maximum of 1.2 W of power from a 5 cell thin-film GaAs solar array. An onboard microcontroller controls a switching power supply using a maximum power point tracking (MPPT) algorithm. Voltage, current, and temperature of the array is communicated over the critical system CAN bus.  
+ 
+Star Tracker Card: Provides satellite attitude determination. The star tracker card contains a monochrome camera with a wide angle lens and is used to capture images of the local star field. It  generates satellite attitude in the celestial coordinate frame using the open source OpenStarTracker (http://openstartracker.org/) project. Attitude data is communicated over the mission CAN bus.
+
+
+SDR GPS Card: Provides satellite position and velocity. The GPS card contains an L band software defined radio which receives transmissions from the GPS constellation. An onboard 32 bit microprocessor receives the raw I/Q data and calculate the satellite's position and velocity and calculates its orbital parameters. Results are communicated over the mission CAN bus.
+
+
+Attitude Control System Card: Provides attitude control to the satellite. Four small tetrahedrally arranged brushless motors with rotating masses provide short term attitude control to the satellite. Longer term attitude control is performed by a set of 3 axis magnetorquers. A small 6 degree of freedom inertial measurement unit is used to measure the spin rate of the satellite. Commands are received and data communicated over the mission CAN bus.
+
+
+Magnetometer End Caps: Provides local magnetic field measurements. The satellite has 4 magnetometers located on the +Z and -Z faces of the satellites. The measured magnetic field is used to calculate satellite attitude given a known position, as well as determine the current magnetic field for use in the magnetorquers. Results are communicated over the mission CAN bus.
+
+
+Deployable Helical Antenna: Provides a 16 turn helical (10 dBi) RHCP S band antenna for the OreSat Live mission system. Antenna is on the +Z face of the satellite. The silver-coated beryllium copper spring element is stored under a door mechanism and is deployed via monofilament melt wires. Melt wire resistors are controlled by the C3 card.
+
+
+Deployable Turnstile Antenna: Provides a 4 element isotropic circularly polarized tri-band (UHF, L band, S band) antenna for telecommand and telemetry radios, GPS, and a backup to the S band helical for the OreSat Live mission. Antenna is on the -Z face of the satellite. Each of the 4 elements consists of a fiberglass tape with 3 embedded monopole antennas. Each element is deployed via a monofilament melt wire. Melt wire resistors are controlled by the C3 card.
+
+
+Cirrus Flux Camera: Provides science data for measuring the global distribution of high altitude cirrus clouds. The system uses a small short-wave infrared camera with three selectable filters and a polarizing filter, along with a small visible light camera, pointed out of the -Z end cap. Data is processed by a 32 bit microprocessor and is communicated using the mission CAN bus.
+
+
+OreSat Live: Provides live video from space to Oregon students and amateur radio operators. Sequential images from a small color camera  on the +Z face of the satellite are captured by a 32 bit microprocessor, compressed, and transmitted to the ground via amateur 802.11b (1M bit/sec DBPSK) at 2.422 GHz using the deployable helical antenna. Control is communicated using the mission CAN bus.
+
+
+For a block diagram, please see:
+http://oresat.org/pub/OreSat_CS0_Block_Diagram.pdf
+	4h
+	Electrical Power budget.
+(average power consumption and power generation in Watts)
+	Power generation: There are eight solar modules, two per side on the Y and X faces of the satellite. Each solar module has a 5 cell thin-film GaAs array that generates a maximum of 1.12 W in full sun in low earth orbit. Each side can generate a maximum of 2.23 W, and all modules together can generate up to 3.15 W of power under optimal conditions. Conservative estimates (tumbling satellite, beta angle = 0 deg, etc) show a collection of 15 Wh of energy per day.
+
+
+Power storage: There are two battery cards, each of which have two parallel 2S packs of Li Ion cells in a 18650 form factor. Each cell is 3.6V nominal (with a range of 3.0 - 4.2V) and can store 3 Ah. With two cards, each with two parallel 2S packs, the satellite's  total storage capacity is 12 Ah at 7.2 V nominal (6.0 - 8.4 V range), which is roughly 86.4 Wh of energy storage. Batteries are only discharged down to 70%, giving a maximum usable pack capacity of 61 Wh.
+
+
+Power consumption (Standby mode): Standby mode reduces the power consumption on the satellite to a minimum. It still includes UHF beaconing and listening on the L band and UHF bands for telecomands. This mode consumes an average of 508 mW of power, or 12.1 Wh per day.
+
+
+Power consumption (OreSat Live): Each OreSat live pass requires approximately 10 W of power for 20 minutes, for a total 3.4 Wh per session. This includes preparing the satellite before the pass, and tracking and communications during the pass. With a fully charged battery pack, the satellite can do 17 OreSat Live sessions before the batteries must be recharged.
+
+
+Power consumption (Cirrus Flux Camera): Each OreSat live pass requires approximately 9.8 W of power for 30 minutes, for a total 4.9 Wh per session. This includes preparing the satellite before the pass, and tracking and capturing data from the camera during the pass. With a fully charged battery pack, the satellite can do 12 Cirrus Flux Camera data captures before the batteries must be recharged.
+	encryption
+	4i
+	Will all transmissions (telemetry formats and equations, payload data, etc.) from the satellite have descriptions of modulations, protocols, formats, etc., published and publicly available on the project web site?
+	☑ Yes
+☐ No, see 4j
+
+
+	4j
+	If you’ve answered no in 4i, please explain.
+	
+
+	
+
+	5
+	TELECOMMAND  (NOT published)
+	5a
+	Telecommand frequency plan. 
+	5a1
+	Proposed space station telecommand frequencies 
+	UHF (436.5 MHz) – Backup Telecommand for emergency use only
+
+
+L band (1265 MHz) – Primary Telecommand and Engineering Data Uplink
+
+
+S band (2422 MHz) – Secondary Backup Telecommand for emergency use only and bulk-data uplink
+	5a2
+	List all ITU emission designators for each transmitter
+	UHF: 96K0F1D
+L band: 120KF1D
+S band: 22M0G1D
+	5a3
+	Common description of the emission including modulation type AND data rate
+	UHF:
+- Backup Telecommand
+- GMSK, 96k bit/sec
+
+
+L band:
+- Primary Telecommand and Engineering Data Uplink
+- GMSK, 120k bit/sec
+
+
+S band:
+- Secondary Backup Telecommand and bulk-data uplink
+- Spread Spectrum DBPSK, 11 M chip/sec spreading rate, 1M bit/sec data rate (amateur 802.11b)
+	5a4
+	Radio Link budget(s)
+	Primary Telecommand
+- Band (cm): 23
+- Freq. (MHz): 1265
+- Direction: uplink
+- Modulation: GMSK
+- BER: 1.0E-05
+- Rate (kbps): 120
+- PA Tx (W): 10.0
+- EIRP (dBm): 54.2
+- Elevation (deg): 10
+- G/T (dB/K): -24.0
+- Margin (dB): 6.2
+
+
+Backup Telecommand
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: uplink
+- Modulation: GMSK
+- BER: 1.0E-05
+- Rate (kbps): 96
+- PA Tx (W): 2.0
+- EIRP (dBm): 45.9
+- Elevation (deg): 10
+- G/T (dB/K): -24.3
+- Margin (dB): 7.7
+
+
+Secondary Backup Telecommand and bulk-data uplink
+- Band (cm): 13
+- Freq. (MHz): 2422
+- Direction: uplink
+- Modulation: DBPSK
+- BER: 1.0E-04
+- Rate (kbps): 1000
+- PA Tx (W): 10.0
+- EIRP (dBm): 61.9
+- Elevation (deg): 30
+- G/T (dB/K): -26.6
+- Margin (dB): 3.4
+
+
+For more information, please see:
+http://oresat.org/pub/oresat_link_budget_telecommand.pdf
+	5a5
+	A general description of any cipher system
+	OreSat uses a mechanism of authentication of telecommand frames rather than message encryption. Only telecommand messages that successfully pass the authentication process will be executed. This means that OreSat Operational Group's ground station control will not encrypt any data up (or down) from the satellite, allowing for complete transparency. The open source and highly vetted authentication algorithms are derived from the CCSDS recommendations Security Architecture for Space Data Systems.
+
+
+For more information, please see:
+http://oresat.org/pub/oresat_ota_protocols.pdf
+-and-
+https://public.ccsds.org/Pubs/351x0m1.pdf
+	5b
+	Positive space station transmitter control.
+Explain how telecommand stations will turn off the space station transmitter(s) immediately, even in the presence of user traffic and/or space station computer system failure
+	Positive transmitter control is achieved through:
+- a dedicated receiver and frequency for telecommand that is completely independent of the transmitter,
+- a latched time out timer on the transmitter which functions without any CPU interaction, and
+- a watchdog on the transmitting CPU and radio transmitter subsystem.
+
+
+For more information, please see:
+http://oresat.org/pub/positive_space_station_transmitter_control.pdf
+	5c
+	Telecommand stations. List telecommand station(s) 
+	5c1
+
+
+
+
+5c2
+	Amateur Radio Callsign
+	KJ7SU - Licensee and primary operator
+KJ7SAT - Portland State University Club Station
+ZS1CED - Geographically distant remote station used for emergency telecommand only
+	Physical location (this is where the antennas are) lat/lon
+	KJ7SU         45-28-29N, 122-36-58W
+KJ7SAT       45-30-32N, 122-40-52W
+KJ7SAT_1   43-47-31N, 120-56-27W
+ZS1CED       33-55-53S,  18-38-33E
+	5d
+	Optional: Give the complete space station turn off procedure.
+
+
+	The space station turn off procedure is described in the satellite operational commands document, found at:
+
+
+http://oresat.org/pub/satellite_operational_commands.pdf
+	
+
+
+	6
+	Telemetry (published)
+	6a
+	Telemetry frequencies
+	6a1
+	All amateur telemetry frequencies or frequency bands
+	UHF (436.5 MHz) – Amateur CW Beacon, Amateur APRS Packet Beacon, and Engineering Data downlink
+	6a2
+	ITU emission designator
+	UHF:
+- Amateur CW Beacon:  150HA1A
+- Amateur APRS Packet Beacon:  20K0F1D
+- Engineering Data Downlink:  96K0F1D
+	6a3
+	Common description of the emission including modulation type AND data rate
+	UHF:
+- Amateur CW Beacon:  Morse Code, 20 WPM
+- Amateur Packet Beacon:  G3RUH, AX.25 Packet,  9600 bit/sec
+- GMSK 96k bit/sec Primary Telemetry Engineering Data Downlink
+	6a4
+	Radio Link budgets
+	Amateur CW beacon
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: downlink
+- Modulation: CW
+- C/N (dB): 2.4
+- Rate: 20 WPM
+- PA Tx (W): 0.1
+- EIRP (dBm): 20.6
+- Elevation (deg): 10
+- G/T (dB/K): -21.0
+- Margin (dB): 4.3
+
+
+Amateur packet beacon
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: downlink
+- Modulation: G3RUH
+- BER: 1.0E-04
+- Rate (kbps): 9.6
+- PA Tx (W): 1.0
+- EIRP (dBm): 30.6
+- Elevation (deg): 10
+- G/T (dB/K): -21.0
+- Margin (dB): 5.3
+
+
+Primary Telemetry
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: downlink
+- Modulation: GMSK
+- BER: 1.0E-05
+- Rate (kbps): 96
+- PA Tx (W): 1.0
+- EIRP (dBm): 30.6
+- Elevation (deg): 10
+- G/T (dB/K): -11.9
+- Margin (dB): 4.8
+
+
+Bulk mission data downlink
+- Band (cm): 13
+- Freq. (MHz): 2422
+- Direction: downlink
+- Modulation: DBPSK
+- BER: 1.0E-04
+- Rate (kbps): 1000
+- PA Tx (W): 1.00
+- EIRP (dBm): 40.5
+- Elevation (deg): 30
+- G/T (dB/K): -4.1
+- Margin (dB): 5.0
+
+
+For more information, please see:
+http://oresat.org/pub/oresat_link_budget_telemetry.pdf
+	6b
+	Transmission formats 
+	All over the air (OTA) protocols and formats are described in:
+
+
+http://oresat.org/pub/oresat_ota_protocols.pdf
+	
+
+	7
+	Launch plans (published)
+	7a
+	Launch agency
+	NanoRacks LLC
+555 Forge River Road,
+Suite 120,
+Webster, TX 77598   USA
+Phone: 1-281-984-4040
+http://nanoracks.com/
+	7b
+	Launch location
+	Kennedy Space Center (NASA-KSC)
+	7c
+	Expected launch date
+	Apr-2021
+	7d
+	Planned orbit.
+	7d1
+	planned orbit apogee
+	410 km
+	7d2
+	planned orbit perigee
+	408 km
+	7d3
+	planned orbit inclination
+	51.6 deg
+	7d4
+	planned orbit period
+	92.6 min
+	7e
+	List other amateur satellites expected to share the same launch.
+	Other NASA ELaNa program manifested CubeSats; unknown at this time.
+	Earth station information:
+8
+	Typical Earth station — transmitting
+	8a
+	Describe the hardware and software of a typical Earth station used to transmit signals to the planned satellite
+	None. OreSat  does not have an intended uplink component for the amateur community. It is a downlink receive only mission beyond the functions of telecommand.
+	8b
+	Radio Link budget.
+Show complete link budgets for all Earth station transmitting frequencies, except telecommand.
+	None. OreSat does not have an intended uplink component for the amateur community. It is a downlink receive only mission beyond the functions of telecommand.
+	
+
+	9
+	Typical Earth station — receiving
+	9a
+	Describe the hardware and software of a typical Earth station to receive signals from the planned satellite.
+	UHF: CW Beacon
+The UHF CW signal is meant to be received by inexpensive and commonly available amateur radio equipment. This signal can be received by a station with a directional antenna of 6 dBi or more of gain and a HPBW of 40 degrees. Tracking software such as GPredict on a laptop, or SatelliteAR on a smartphone, can be used to track the satellite and point the antenna. Alternatively, an isotropic antenna with enough gain, such as a turnstile antenna, would remove the need for tracking.  Receiving the signal requires a CW or SSB receiver with a BFO to provide the auditory tone for ordinary 20 WPM CW reception by ear.
+
+
+UHF: G3RUH / AX.25 Packet Beacon
+The UHF G3RUH / AX.25 Packet Beacon signal  is meant to be received by commonly available amateur radio equipment. The signal can be received by a station with a directional antenna of 6 dBi or more of gain and a HPBW of 40 degrees. Tracking software such as GPredict on a laptop, or SatelliteAR on a smartphone, can be used to track the satellite and point the antenna. Alternatively, an isotropic antenna with enough gain, such as a turnstile antenna, would remove the need for tracking.  The receiver requires a wide band FM (WFM) output of 15 to 20 kHz which is included in many amateur radio receivers. Alternately a legacy receiver could be modified to pick off the FM signal before the demodulators deemphasis filter. There are also “Packet Ready” receivers that can produce this type of WFM output. The WFM is then provided to the audio input of a Packet Disassembler (TNC) capable of 9600 bit/sec G3RUH signals. Finally a terminal or laptop running a terminal emulator such as minicom is required to observe the ASCII encoded telemetry frames. These frames are encoded APRS packets which hold OreSat telemetry. The APRS encoding is described by Bob Bruninga, WB4APR at <http://www.aprs.org/> It is expected that after a period of time during OreSat’s lifetime, Mike Rupprecht, DK3WN will provide a telemetry decoder software package on his website <http://dk3wn.info/blog/digital/> that will automatically decode the telemetry output from the TNC.
+
+
+S band: Amateur 802.11b
+The S band signal from the satellite is meant to be received by the OreSat Live Handheld Ground Station, an open source receive-only S band receiver kit based on IEEE 802.11b ("WiFi") meant to be assembled by Oregon students and Oregon amateur radio groups in order to receive live frame-per-second video directly from OreSat.
+
+
+The handheld ground station consists of a 10 dBi 16 turn helical antenna, a PCB with a +28 dBm S band LNA, an Atheros AR9271-based USB to WiFi adapter, a Raspberry Pi Zero W single board computer, a small USB "power pack" battery, and the student's smartphone running SatelliteAR.
+
+
+The student uses the SatelliteAR running on their smartphone to point the helical antenna at the satellite as it passes overhead. The S band LNA PCB amplifies the signal from the antenna for the USB to WiFi adapter. The Raspberry Pi receives the incoming data from the adapter, and extracts the video data. The video is then displayed as a series of images on a web page that is served by the Raspberry Pi on its built-in WiFi adapter on a separate WiFi channel. The student uses any WiFi-enabled smart device, like a laptop or smartphone, to connect to the Raspberry Pi and see the video. 
+
+
+The handheld ground station is fully open source and can be created from scratch. Not all students or even amateur radio groups can fab PCBs and solder, so the handheld ground station will also be available in kit form.
+
+
+For more information, please see:
+http://oresat.org/pub/typical_earth_station_for_receiving_oresat_telemetry.pdf
+
+
+and also:
+https://github.com/oresat/oresat-live-handheld-ground-station
+	9b
+	Radio Link budget.
+Show complete link budgets for all Earth station receiving frequencies.
+	Amateur CW beacon
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: downlink
+- Modulation: CW
+- C/N (dB): 2.4
+- Rate: 20 WPM
+- PA Tx (W): 0.1
+- EIRP (dBm): 20.6
+- Elevation (deg): 10
+- G/T (dB/K): -21.0
+- Margin (dB): 4.3
+
+
+Amateur packet beacon
+- Band (cm): 70
+- Freq. (MHz): 436.5
+- Direction: downlink
+- Modulation: G3RUH
+- BER: 1.0E-04
+- Rate (kbps): 9.6
+- PA Tx (W): 1.0
+- EIRP (dBm): 30.6
+- Elevation (deg): 10
+- G/T (dB/K): -21.0
+- Margin (dB): 5.3
+
+
+Bulk mission data downlink
+- Band (cm): 13
+- Freq. (MHz): 2422
+- Direction: downlink
+- Modulation: DBPSK
+- BER: 1.0E-04
+- Rate (kbps): 1000
+- PA Tx (W): 1.55
+- EIRP (dBm): 42.4
+- Elevation (deg): 45
+- G/T (dB/K): -8.5
+- Margin (dB): 4.9
+
+
+For more information, please see:
+http://oresat.org/pub/oresat_link_budget_earth_stations.pdf
+	Additional information:
+Do not attach large files. Indicate the URL where the information is available.
+
+
+10
+	Please, supply any additional information that may assist the Satellite Advisor to coordinate your request(s).
+
+
+There is no section in this document for a simple overview or concept of operations discussion. We've included a quick concept of operations here just in case it's helpful.
+
+
+1. The UHF / L Band System
+
+
+During normal operations, the satellite beacons amateur CW and AX.25 APRS telemetry on UHF for the general amateur community.
+
+
+During normal telecomand operations, the OreSat Operations Group will control the satellite via telecomands on the L band GMSK 120k bit/sec engineering data uplink from the OreSat Operations Group's ground station. During telecomands, the satellite will cease to beacon, and instead reply to the telecomands with the UHF GMSK 96k bit/sec engineering data downlink until LOS with the OreSat Operations Group ground station.
+
+
+There is a continuously operating UHF GMSK 96k bit/sec backup receiver on the same frequency as the UHF engineering data downlink in case the L band engineering data uplink fails. This backup uplink must work in half duplex mode with the UHF GMSK 96k bit/sec engineering data downlink.
+
+
+2. The S Band System
+
+
+In normal mission mode, the S band radio and high-gain helical antenna provide bulk mission data downlink to provide Oregon students and Oregon amateur radio groups with live frame per second video of the Earth. The S band radio runs the amateur 802.11b protocol, making the earth stations built by the Oregon students and amateur groups extremely easy to build and inexpensive. The S band bulk mission data downlink must be scheduled with the OreSat Operations Group before the pass occurs, since the satellite must point the helical high gain antenna at the receiving group.
+
+
+In telecommand mode, the S band radio can be enabled to experiment with using amateur 802.11b ("DxWiFi") as a long distance high speed bi-directional digital amateur radio system. If successful, the S band radio system can be used as a high speed (1 M bit/sec) bulk mission data downlink while over the OreSat Operations Group ground station.
+
+
+See diagram of channel usage:
+http://oresat.org/pub/communication_channel_diagram.pdf
+
+
+For more technical details on all of our subsystems, please see our Github site at:
+https://github.com/oresat
+	
+
+Certification:
+11*
+	☑  The licensee of the planned space station has reviewed all relevant laws, rules, and regulations, and certifies that this request complies with all requirements as understood by IARU to the best of his/her knowledge and confirms to meet the requirements of RR 1.56 and RR 1.57 in that the proposed satellite will operate without pecuniary interest.  
+
+
+Please list any commercial interests.  If none, please state none.
+
+
+None
+
+
+	☐ The licensee of the planned space station has reviewed all relevant laws, rules, and regulations and disagrees with IARU interpretations of Treaty requirements.   The IARU Satellite Advisor is asked to consider the following interpretation.  Explanation follows. 
+
+
+	Please tick ONE appropriate box.
+
+
+Signature:
+12
+	(REQUIRED!)
+
+
+
+
+
+
+______________________________         _________________________
+  Signature of space station licensee.          Date submitted for coordination.
+	
+
+
+
+
+
+Rev. 39.  3 September 2018
